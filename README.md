@@ -1,8 +1,6 @@
 # Rent Car Rental Service
 
-## Website Link
-
-    https://carrentalportal.netlify.app
+## Website Link: https://carrentalportal.netlify.app
 
 ## Using to external package
 
